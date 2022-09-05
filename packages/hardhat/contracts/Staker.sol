@@ -34,6 +34,7 @@ contract Staker {
     }
     _;
   }
+  
 
   /*
   Checks if the claim period has ended or not
